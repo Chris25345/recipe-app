@@ -1,7 +1,7 @@
 # Recipe App
 React-приложение для поиска рецептов по конкретному ингредиенту
 
-<img src="pictures/main.png" alt="" width="600" height="300"/>
+<img src="pictures/main.png" alt="" width="700" height="400"/>
 
 # Getting Started with Create React App
 
